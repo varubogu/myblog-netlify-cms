@@ -1,21 +1,19 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: 楽しく覚えるプログラミングサイト
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: 楽しく覚えるプログラミングサイト
+subheading: プログラミングを楽しいんで学ぶサイト
 mainpitch:
-  title: Why Kaldi
+  title: プログラミングを楽しもう！
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    プログラミングについて、
+    やったことない、難しそう、学校の授業でやることになった、仕事でやることになった、
+    色んな方がいると思います。当サイトで一緒に学んでみませんか？
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  個人的な感想ですが、プログラミングはとても楽しいものです。
+  ただ、そうは言ってもわからない方も多いでしょう。
+  そういった方にもプログラミングの楽しさが伝わるよう努力していきます。
 intro:
   blurbs:
     - image: /img/coffee.png
